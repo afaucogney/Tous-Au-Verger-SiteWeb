@@ -1,50 +1,36 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Tous au Verger
+image: /img/apple-1873078_1920.jpg
+heading: Valorise les dsffdsfds
+subheading: Valorise les arbres fruitiers delaissés !
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Pourquoi Tous au Verger ?
+  description: Tous au Vergerewq
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/le_site_du_verger_-communauté_dagglomération_de_cergy-pontoise-_-4753141672-.jpg
+      text: |
+        Nous préservons le patrimoine végétal et local
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |
+        Nous mettons en place des événements pour la collecte
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Nous effectuons la tailles des fruitiers
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Nous effectuons la greffe des fruitiers
+    - text: Nous effectuons la transformations des fruits
+      image: /img/17354650_m.jpg
+    - text: Nous effectuons la vente de produits issues des fruits récoltés
+      image: /img/jus-pommes-poche-3l.jpg
+    - text: Nous sensibilisons à l'environment et au gaspillage
+      image: /img/environmental-protection-683437_640.jpg
+    - text: Nous travaillons avec les établissements d'insertion
+      image: /img/898672cd966d8caf18f11bfb24f67b-64243.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
