@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 1ere cueillette pour "Tous au Verger"
 date: 2019-10-19T17:30:05.835Z
-description: Pour sa **premiere**, Tous au Verger et sa trentaine de cueilleur à
+description: Pour sa premiere, Tous au Verger et sa trentaine de cueilleurs, à
   atteint son objectif de 500 Kg et cela en moins d'un heure.
 featuredpost: true
 featuredimage: /img/20191020_144541.jpg
